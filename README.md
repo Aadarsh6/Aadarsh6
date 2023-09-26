@@ -1,4 +1,4 @@
-[![MasterHead](https://github.blog/wp-content/uploads/2021/01/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630)
+![MasterHead](https://github.blog/wp-content/uploads/2021/01/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630)
 
 <h1 align="center">Hi 👋, I'm Aadarsh mishra</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadarsh6&label=Profile%20views&color=0e75b6&style=flat" alt="aadarsh6" /> </p>
