@@ -1,38 +1,42 @@
 ![MasterHead](https://github.blog/wp-content/uploads/2021/01/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630)
 
-<h1 align="center">Hi 👋, I'm Aadarsh mishra</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aadarsh6&label=Profile%20views&color=0e75b6&style=flat" alt="aadarsh6" /> </p>
-<img align="right" alt="Coding" width="400" src="https://o.remove.bg/downloads/6050da04-1053-43b9-b54a-4b1c16218cd6/cute-astronaut-working-laptop-cartoon-vector-icon-illustration-science-technology-icon-isolated_138676-4634-removebg-preview.png"
+# Hi there, I'm Aadarsh 👋
 
+I'm a passionate developer with a keen interest in open-source contributions and software development. I love to explore new technologies and apply them to solve real-world problems.
 
-<p align="left"> <a href="https://twitter.com/aadarsh_168" target="blank"><img src="https://img.shields.io/twitter/follow/aadarsh_168?logo=twitter&style=for-the-badge" alt="aadarsh_168" /></a> </p>
+## 🛠️ Technologies & Tools
 
-- 🌱 I’m currently learning **Machine learning , Python**
+- **Languages:** TypeScript, C, C++, JavaScript, Python
+- **Frameworks:** React, Node.js, Express, Tailwind CSS
+- **Databases:** MongoDB, PostgreSQL
+- **Tools:** AWS, Git, Docker
 
-- 📫 How to reach me **aadarshakmishra17@gmial.com**
+## 📫 How to reach me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aadarsh_168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aadarsh_168" height="30" width="40" /></a>
-</p>
+- **Email:** aadarshakmishr16@gmail.com
+- **Twitter:** [@adarshx_23](https://twitter.com/adarshx_23)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🚀 Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadarsh6&show_icons=true&locale=en&layout=compact" alt="aadarsh6" /></p>
+Here are a few projects I've worked on:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadarsh6&show_icons=true&locale=en" alt="aadarsh6" /></p>
+- **Project 1:** [Project Name](https://github.com/Aadarsh6/project1) - A brief description of what this project does.
+- **Project 2:** [Project Name](https://github.com/Aadarsh6/project2) - A brief description of what this project does.
+- **Project 3:** [Project Name](https://github.com/Aadarsh6/project3) - A brief description of what this project does.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aadarsh6&" alt="aadarsh6" /></p>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
-<a href="https://twitter.com/aadarsh_168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aadarsh_168" height="30" width="40" /></a>
-</p>
+Feel free to check out my repositories for more of my work!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🌱 I’m currently learning
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadarsh6&show_icons=true&locale=en&layout=compact" alt="aadarsh6" /></p>
+- Advanced JavaScript concepts
+- Cloud computing with AWS
+- Machine Learning and AI
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadarsh6&show_icons=true&locale=en" alt="aadarsh6" /></p>
+## 💬 Ask me about
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aadarsh6&" alt="aadarsh6" /></p>
+- Web development
+- Open-source contributions
+- Software design principles
+
+Thanks for stopping by! 😊
+``` ▋
