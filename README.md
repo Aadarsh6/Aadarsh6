@@ -21,7 +21,7 @@ Currently focused on:
 
 ## 🚀 Highlight Projects
 
-- **FocusZen**: [Website](https://github.com/Aadarsh6/focuszen-website) • [Extension](https://github.com/Aadarsh6/focuszen-extension)  
+- **FocusZen**: [Website](https://focuszen.vercel.app/) • [Extension](https://github.com/Aadarsh6/focuszen-extension)  
   Chrome extension + web app to help users block unapproved websites during focus mode.
 ---
 
