@@ -6,7 +6,9 @@ A passionate developer exploring the intersection of **tech and creativity**. I 
 
 Currently focused on:
 - Building **FocusZen**, a productivity app + Chrome extension that blocks distractions and helps users stay in flow.
-- Creating content on **X** around web dev, open source, AI, and future tech.**.
+- Creating content on **X** around web dev, open source, AI, and future tech.
+- Preparing for **Google Summer of Code 2026** and **Summer of Bitcoin**.
+
 ---
 
 ## 🛠️ Tech Stack
@@ -27,7 +29,7 @@ Currently focused on:
 
 ## 📫 Let's Connect
 
-- 📧 **Email:** aadarshakmishr16@gmail.com 
+- 📧 **Email:** aadarshakmishr16@gmail.com  
 - 🐦 **Twitter/X:** [@adarshx_23](https://twitter.com/adarshx_23)  
 - 🌐 **Portfolio (coming soon)**
 
@@ -47,8 +49,19 @@ Currently focused on:
 - Chrome Extension Development  
 - Productivity Tools & Workflows  
 - Building in Public  
-
+- GSoC & Open Source Onboarding  
 
 ---
 
-Thanks for stopping by! If you like my work, feel free to follow or reach out — always happy to collaborate or chat! 🚀✨
+## ⚡ GitHub Stats
+
+![Aadarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aadarsh6&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
+
+---
+
+## 📝 Animated Bio
+
+```text
+I'm a developer... exploring new tech... building useful projects... contributing to open-source... 
+
+
