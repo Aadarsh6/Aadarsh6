@@ -2,41 +2,53 @@
 
 # Hi there, I'm Aadarsh 👋
 
-I'm a passionate developer with a keen interest in open-source contributions and software development. I love to explore new technologies and apply them to solve real-world problems.
+A passionate developer exploring the intersection of **tech and creativity**. I enjoy building useful tools, contributing to open source, and diving deep into emerging technologies like AI and Web3.
 
-## 🛠️ Technologies & Tools
+Currently focused on:
+- Building **FocusZen**, a productivity app + Chrome extension that blocks distractions and helps users stay in flow.
+- Creating content on **X** around web dev, open source, AI, and future tech.**.
+---
 
-- **Languages:** TypeScript, C, C++, JavaScript, Python
-- **Frameworks:** React, Node.js, Express, Tailwind CSS
-- **Databases:** MongoDB, PostgreSQL
-- **Tools:** AWS, Git, Docker
+## 🛠️ Tech Stack
 
-## 📫 How to reach me
+- **Languages:** TypeScript, JavaScript, C, C++, Python, Java  
+- **Frontend:** React.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Databases:** MongoDB, PostgreSQL  
+- **DevOps & Tools:** Git, Docker, AWS, Chrome Extensions, Notion
 
-- **Email:** aadarshakmishr16@gmail.com
-- **Twitter:** [@adarshx_23](https://twitter.com/adarshx_23)
+---
 
-## 🚀 Projects
+## 🚀 Highlight Projects
 
-Here are a few projects I've worked on:
+- **FocusZen**: [Website](https://github.com/Aadarsh6/focuszen-website) • [Extension](https://github.com/Aadarsh6/focuszen-extension)  
+  Chrome extension + web app to help users block unapproved websites during focus mode.
+---
 
-- **Project 1:** [Project Name](https://github.com/Aadarsh6/project1) - A brief description of what this project does.
-- **Project 2:** [Project Name](https://github.com/Aadarsh6/project2) - A brief description of what this project does.
-- **Project 3:** [Project Name](https://github.com/Aadarsh6/project3) - A brief description of what this project does.
+## 📫 Let's Connect
 
-Feel free to check out my repositories for more of my work!
+- 📧 **Email:** aadarshakmishr16@gmail.com 
+- 🐦 **Twitter/X:** [@adarshx_23](https://twitter.com/adarshx_23)  
+- 🌐 **Portfolio (coming soon)**
 
-## 🌱 I’m currently learning
+---
 
-- Advanced JavaScript concepts
-- Cloud computing with AWS
-- Machine Learning and AI
+## 🌱 Currently Learning
 
-## 💬 Ask me about
+- React Native & Mobile App Development  
+- Advanced AI/ML Concepts  
+- Cloud Infrastructure with AWS  
+- Open Source Best Practices  
 
-- Web development
-- Open-source contributions
-- Software design principles
+---
 
-Thanks for stopping by! 😊
-``` ▋
+## 💬 Ask Me About
+
+- Chrome Extension Development  
+- Productivity Tools & Workflows  
+- Building in Public  
+
+
+---
+
+Thanks for stopping by! If you like my work, feel free to follow or reach out — always happy to collaborate or chat! 🚀✨
