@@ -42,13 +42,6 @@ Currently focused on:
 - Open Source Best Practices  
 
 ---
-
-## 💬 Ask Me About
-
-- Chrome Extension Development  
-- Productivity Tools & Workflows  
-- Building in Public  
-
 ---
 
 
