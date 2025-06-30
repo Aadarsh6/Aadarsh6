@@ -29,7 +29,6 @@ Currently focused on:
 ## 📫 Let's Connect
 
 - 📧 **Email:** aadarshakmishr16@gmail.com  
-- 🐦 **Twitter/X:** [@adarshx_23](https://twitter.com/adarshx_23)  
 - 🌐 **Portfolio (coming soon)**
 
 ---
