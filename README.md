@@ -22,7 +22,7 @@
 ## 📫 Let's Connect
 
 - 📧 **Email:** aadarshakmishr16@gmail.com  
-- 🌐 **Portfolio (coming soon)**
+
 
 ---
 
