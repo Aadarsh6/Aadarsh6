@@ -4,8 +4,8 @@
 ### Full-Stack Developer · AIML Student · Ships Things
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-aadarshm.me-black?style=for-the-badge&logo=vercel)](https://aadarshm.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aadarsh-mishra-883549418)
-[![Twitter](https://img.shields.io/badge/Twitter-@adarshx__23-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/adarshx_23)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aadarsh-mishra-883549418/)
+[![Twitter](https://img.shields.io/badge/Twitter-@adarshx__23-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/aadarshmX)
 [![Email](https://img.shields.io/badge/Email-aadarshakmishra16@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:aadarshakmishra16@gmail.com)
 
 </div>
@@ -56,19 +56,6 @@ const aadarsh = {
 }
 ```
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Aadarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aadarsh6&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=94A3B8&icon_color=7C3AED)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadarsh6&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=94A3B8)
-
-</div>
-
----
-
 ## 🎓 Education
 
 **Delhi Technical Campus, GGSIPU** · 2023–2027
@@ -79,7 +66,7 @@ Bachelor of Technology — Artificial Intelligence & Machine Learning
 
 <div align="center">
 
-**Open to internships · Full-stack · AI/ML · Remote**
+**Full-stack · AI/ML**
 
 [aadarshm.me](https://aadarshm.me) · [aadarshakmishra16@gmail.com](mailto:aadarshakmishra16@gmail.com)
 
