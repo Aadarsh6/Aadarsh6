@@ -13,8 +13,8 @@
 ---
 
 ```
-Final year BTech AIML student CGPA 8.6
-Building full-stack products that actually ship not just GitHub repos.
+Final year BTech AIML student 
+Building full-stack products that actually ship.
 ```
 
 ---
