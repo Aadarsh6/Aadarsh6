@@ -43,7 +43,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <img src="assets/stack-light.svg" alt="Stack. Languages: TypeScript, JavaScript, Python. Frontend: React. Backend: Node.js, Express, PostgreSQL, Prisma. Auth and realtime: OAuth, WebSockets, WebRTC. Ship: Docker." width="100%">
+  <img src="assets/stack-light.svg" alt="Stack. Languages: TypeScript, JavaScript, Python. Frontend: React, Nextjs Backend: Node.js, Express, PostgreSQL, Prisma. Auth and realtime: OAuth, WebSockets, WebRTC. Ship: Docker, Azure, AWS." width="100%">
 </picture>
 
 <!--
